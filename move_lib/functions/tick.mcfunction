@@ -1,0 +1,1 @@
+execute as @e[tag=move_monitored] at @s run function move_lib:entity_tick
